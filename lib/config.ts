@@ -18,8 +18,8 @@ export const config = {
   blog: {
     enabled: true,
     repoOwner: "jayashakthi28", // 👈 UPDATE THIS with your blog repo owner
-    repoName: "jayashakthi28",            // 👈 UPDATE THIS with your blog repo name
-    branch: "main",              // Branch where blog files are stored
+    repoName: "blog",            // 👈 UPDATE THIS with your blog repo name
+    branch: "main",    g          // Branch where blog files are stored
     blogsPath: "",               // Path to blogs folder (empty for root)
   },
 
