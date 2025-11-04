@@ -39,7 +39,7 @@ export function Navbar() {
             href="#"
             className="text-xl font-bold text-primary hover:text-primary/80 transition-colors duration-400"
           >
-            Dev Portfolio
+            Jayashakthi's Portfolio
           </Link>
 
           <div className="hidden md:flex gap-10 items-center">
